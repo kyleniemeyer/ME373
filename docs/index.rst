@@ -6,15 +6,17 @@
 ME 373 Mechanical Engineering Methods
 =====================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 | **Course Name**: ME 373: Mechanical Engineering Methods, Introduction to Scientific Computing
-|
 | **Instructor**: Prof. Kyle Niemeyer (kyle.niemeyer@oregonstate.edu), 320 Rogers Hall
 
 
+Lecture notes
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   lesson1-analytical-solutions.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------

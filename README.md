@@ -1,5 +1,8 @@
 # ME373
-Teaching material for ME 373 Mechanical Engineering Methods
+
+This repository holds teaching material for ME 373 Mechanical Engineering Methods, taught by Kyle Niemeyer at Oregon State University.
+
+This course covers analytical and numerical methods for solving initial and boundary value problems described by first- and second-order ordinary differential equations, and numerical methods for solving some partial differential equations.
 
 ## License
 Code in this repository is licensed under the MIT license.
