@@ -16,7 +16,7 @@ Lecture notes
 .. toctree::
    :maxdepth: 1
 
-   lesson1-analytical-solutions.ipynb
+   lesson1-review.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
