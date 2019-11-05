@@ -6,7 +6,7 @@
 ME 373 Mechanical Engineering Methods
 =====================================
 
-| **Course Name**: ME 373: Mechanical Engineering Methods, Introduction to Scientific Computing
+| **Course Name**: ME 373: Mechanical Engineering Methods
 | **Instructor**: Prof. Kyle Niemeyer (kyle.niemeyer@oregonstate.edu), 320 Rogers Hall
 
 
