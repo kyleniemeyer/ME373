@@ -17,7 +17,7 @@ Lecture notes
    :maxdepth: 1
 
    review-first-order.ipynb
-   error.ipynb
+   numerical-solution-error.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
