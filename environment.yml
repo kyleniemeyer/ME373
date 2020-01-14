@@ -1,7 +1,9 @@
 name: jupyter
 channels:
   - conda-forge
+  - anaconda
 dependencies:
-  - python=3.7
-  - jupyter
-  - nbsphinx
+  - python==3.7
+  - pip:
+    - jupyter
+    - nbsphinx
