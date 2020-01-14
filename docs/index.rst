@@ -19,6 +19,7 @@ Lecture notes
    review-first-order.ipynb
    numerical-solution-error.ipynb
    second-order-ODEs-analytical.ipynb
+   first-order-numerical.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
