@@ -1,2 +1,4 @@
 jupyter
 nbsphinx
+recommonmark
+sphinx-rtd-theme

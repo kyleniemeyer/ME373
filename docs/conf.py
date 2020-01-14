@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ME373'
-copyright = '2019, Kyle Niemeyer'
+copyright = '2020, Kyle Niemeyer'
 author = 'Kyle Niemeyer'
 
 # The full version, including alpha/beta/rc tags
