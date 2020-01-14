@@ -1,5 +1,12 @@
-conda:
-    file: environment.yml
+#conda:
+#    file: environment.yml
 python:
     version: 3.7
+    install:
+      - requirements: requirements.txt
     pip_install: true
+
+sphinx:
+    builder: html
+    configuration: conf.py
+    fail_on_warning: true
