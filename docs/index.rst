@@ -21,6 +21,7 @@ Lecture notes
    second-order-ODEs-analytical.ipynb
    first-order-numerical.ipynb
    second-order-numerical.ipynb
+   stiffness-stability.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
